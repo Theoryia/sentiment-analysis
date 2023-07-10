@@ -30,7 +30,7 @@ for i, row in reviews_df.iterrows():
         else:
             overall_sentiment = 'unknown'
     else:
-        overall_sentiment = 'unknown'
+        overall_sentiment = 'error'
     
     reviews_df.at[i, 'Overall Sentiment'] = overall_sentiment
 
