@@ -36,7 +36,7 @@ The concert was boring. I regretted buying the tickets.,Negative
 The book was thought-provoking. It made me reflect on life.,Positive
 The customer support was helpful. They resolved my issue promptly.,Positive
 The hotel had a great location. It was convenient for sightseeing.,Positive
-The movie was a bit predictable. It didn't offer any surprises.,Positive
+The movie was a bit predictable. It didn't offer any surprises.,Negative
 The food at the restaurant was terrible. I wouldn't recommend it.,Negative
 The performance was lackluster. It failed to engage the audience.,Negative
 The product worked perfectly. It met all my requirements.,Positive
@@ -261,4 +261,4 @@ The movie was a classic. It will always be one of my favorites.,Positive
 The customer support was unhelpful. They couldn't resolve my issue.,Negative
 I dont recommend going here,Negative
 I dont dislike this place,Not Understood / Neutral
-"It was delicious, i couldn't get enough of it",Not Understood / Neutral
+"It was delicious, i couldn't get enough of it",Positive
